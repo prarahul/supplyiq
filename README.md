@@ -4,6 +4,7 @@ SupplyIQ 2.0 is a supply chain analytics project that brings together sales, inv
 
 > **Project status:** The PostgreSQL schema and analytical SQL layer have been developed. The Power BI dashboard is part of the project; verify its visuals and interactions before describing it as production-ready.
 
+![SupplyIQ dashboard](docs/dashboard.png)
 ## Key Features
 
 - **Supply chain data model:** Dimension tables for dates, products, suppliers, customers, warehouses, and carriers.
